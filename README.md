@@ -19,6 +19,7 @@ El uso es sencillo, escribe en la entrada de texto el tema sobre el que quieras 
 - Open a new terminal in the code editor you like to use and run: npm run dev
 
 plugis de interes:
+
 plugins of interest:
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
